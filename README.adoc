@@ -1,0 +1,40 @@
+= Spring Boot - REST
+
+Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
+
+---
+
+=== Tecnologias
+----
+* Java 8
+* Maven
+* Spring Boot
+* JPA Hibernate
+* H2 Database
+----
+
+=== Abordagem - Parte 1
+
+* *Publicando Endpoints*
+    . Utilizando DTO
+    . Utilizando Spring Boot DevTools
+* *Usando Spring Data*
+    . Spring Data JPA
+    . Arquivo application.properties
+    . Arquivo data.sql
+    . JpaRepository
+* *Trabalhando com POST*
+    . @RequestBody
+* *Validação com Bean Validation*
+    . @Valid
+* *Métodos PUT, DELETE e tratamento de erro*
+    . Tratando o erro 404
+
+---
+
+Inspirado no(s) curso(s):
+
+* *Spring Boot Parte 1: Construa uma API Rest*
+
+https://www.alura.com.br/[Alura | Cursos online de tecnologia]
+
