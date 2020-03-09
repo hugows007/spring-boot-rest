@@ -48,6 +48,7 @@ Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
     . Integrando com o Spring Boot Admin
 * *Documentação da API com Swagger*
     . JWT no Swagger
+
 ---
 
 Inspirado no(s) curso(s):
