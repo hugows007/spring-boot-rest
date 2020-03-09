@@ -30,11 +30,30 @@ Projeto desenvolvido e disponibilizado para fins de consultas e estudos.
 * *Métodos PUT, DELETE e tratamento de erro*
     . Tratando o erro 404
 
+=== Abordagem - Parte 2
+
+* *Paginação e ordenação de recursos*
+    . Interface Page
+    . @PageableDefault
+* *Melhorando desempenho com Spring Cache*
+    . @Cacheable
+    . @CacheEvict
+* *Proteção com Spring Secutiry*
+    . Controle de endpoints e autenticação do usuário
+* *Gerando token com JWT*
+    . Configuração
+* *Autenticação via JWT*
+    . Configuração
+* *Monitoramento com Spring Boot Actuator*
+    . Integrando com o Spring Boot Admin
+* *Documentação da API com Swagger*
+    . JWT no Swagger
 ---
 
 Inspirado no(s) curso(s):
 
-* *Spring Boot Parte 1: Construa uma API Rest*
+* *Spring Boot Parte 1: Construa uma API Rest*; e
+* *Spring Boot Parte 2: Segurança da API, Cache e Monitoramento*
 
 https://www.alura.com.br/[Alura | Cursos online de tecnologia]
 
